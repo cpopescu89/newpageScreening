@@ -1,0 +1,3 @@
+Selenium initialized with ChromeDriver
+Closing WebDriver
+TearDown done: close WebDriver
